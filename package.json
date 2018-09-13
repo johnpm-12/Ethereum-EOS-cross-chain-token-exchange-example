@@ -1,0 +1,14 @@
+{
+  "name": "ethereum-eos-cross-chain-token-exchange-example",
+  "version": "1.0.0",
+  "description": "token on ethereum and eos that allows exchanging from one network to the other",
+  "scripts": {
+    "test": "cd eth && truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/whatsyourgithub/Ethereum-EOS-cross-chain-token-exchange-example.git"
+  },
+  "author": "https://github.com/whatsyourgithub",
+  "license": "UNLICENSED"
+}
